@@ -4,6 +4,8 @@ projects:
     type: library
     model: virion
     path: libasynql
+    
+BUILD: THX
 
 # possible shade strategies:
 #   syntax (use token_get_all() to scan all syntactical references)
